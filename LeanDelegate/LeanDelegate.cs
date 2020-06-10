@@ -9,7 +9,7 @@ delegate int NumberChanger(int n);
 
 namespace LeanDelegate
 {
-    class Program
+    class LeanDelegate
     {
         static int num = 10;
         public static int AddNum(int p)
