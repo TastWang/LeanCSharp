@@ -1,2 +1,2 @@
-# LeanC-
+# LeanCSharp
 学习C#基本语法
