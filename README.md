@@ -12,3 +12,6 @@
 3. 委托（Delegate）特别用于实现事件和回调方法。(事件和回调下面会讲到)
 
    
+
+## Lean Event Instance
+
